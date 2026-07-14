@@ -1,0 +1,109 @@
+# Dr. Chaitali Manojkumar Shaha
+**PhD, CSIR-UGC NET JRF (AIR 47), GATE (AIR 364)**
+📧 shaha.chaitali@yahoo.com | 📱 9922755595
+
+---
+
+## Professional Objective
+Enthusiastic and highly qualified Assistant Professor with a doctoral background in Zoology and a strong track record of competitive national examinations. Dedicated to delivering innovative, application-based lessons that develop student’s analytical skills, while actively contributing to cutting-edge research in environmental biology and microbiology.
+
+## Core Academic Qualifications and Certifications
+- **2017 - 2022:** PhD Zoology, Department of Zoology, Savitribai Phule Pune University
+- **2016:** Qualified CSIR-UGC NET JRF (AIR 47), CSIR-UGC NET LS (AIR 35)
+- **2015:** Cleared Graduate Aptitude Test of Engineering (GATE) (AIR 364)
+- **2013 - 2015:** M.Sc. Zoology, Department of Zoology, Savitribai Phule Pune University, Pune
+- **2010 - 2013:** B.Sc. Biotechnology, Abasaheb Garware College of Arts and Science, Pune
+- **2008 - 2010:** Higher Secondary School, H.V. Desai College of Arts, Science and Commerce, Pune
+- **2008:** Secondary School, Mount Carmel Convent High School, Pune
+
+## Research Experience
+
+### 2017 – 2021 | PhD work
+**Putative effect of xenobiotics on esterases of bacterial flora from Chironomus circumdatus (bloodworms)**
+Isolated bacteria from the gut of *Chironomus circumdatus*, characterized esterases enzyme from them and studied the role of Carboxylesterases in biodegrading of plasticizers. Also worked on studying the effects of plasticizers mediated stress on *Chironomus circumdatus* larvae.
+
+### Dec 2014 – Feb 2016 | Master’s Dissertation
+**Developmental stage specific rhodopsin expression in Chironomus ramosus**
+Studied photoreceptors present in the different developmental stages of *Chironomus* and opsins present in them.
+
+### June 2012 – March 2013 | Bachelor’s Dissertation
+**Characterization and purification of Alkaline Phosphatase (enzyme) from plant source (Vigna unguiculata)**
+Extracted, purified and immobilized Alkaline phosphatase enzyme from *Vigna unguiculata*.
+
+### Thrust areas of research
+Biochemistry, Entomology, Microbiology, Biotechnology, Environmental Biology, Molecular Biology, Toxicology
+
+## Key Technical and Soft Skills
+- **Research and Analytics:** Enzymology extraction and purification, microbial gut isolation, toxicological stress bioassays, molecular biology protocols.
+- **Soft Skills:** Technical scientific writing, public speaking, academic curriculum design, cross-functional conference management.
+- **Software Competency:** Microsoft Office Suite (Word, Excel, PowerPoint), statistical data processing applications.
+
+## Academic Work Experience
+- **26th June, 2025 - 16th May, 2026**
+  Assistant Professor (Contractual), Department of Education in Science and Mathematics (DESM), Regional Institute of Education, Near NICCO park, Bhubaneswar- 751022
+- **15th September, 2022 – 10th March, 2023**
+  Assistant Professor (Adhoc), Department of Zoology (Postgraduate), Modern College of Arts, Science and Commerce, Ganeshkhind, Pune-16.
+
+### Subjects taught
+Biochemistry, Genetics, Cell Biology, Immunology, Molecular Biology, Biotechnology, Skills in Scientific Communication, Research Methodology, Biotechniques and Instrumentation, Environmental studies, Comparative Animal Physiology, Ichthyology and Apiculture.
+
+### Examination duties assigned
+Paper setting and checking for M.Sc. Semester examinations.
+
+## Student Research Mentorship
+
+### Postgraduate (M.Sc.) Dissertations Guided
+1. **Prathamesh Sureshrao Mule** - Impact of exotic plants on butterflies in Pune urban area
+2. **Ruchita Narendra Bhosale** - Assessment of aquatic environment characteristics surrounding the Chironomus species in the natural conditions.
+3. **Radhakisan Girish Waghmare** - Study the interaction between butterflies and plants in Pune City.
+
+### Undergraduate (B.Sc.) Projects Guided
+1. **Sheetal Toppo** - Plasticizer pollution and microbial remediation: principles, applications and future perspectives.
+2. **Pragati Pradhan** - A multidisciplinary review of chironomus: bioindicators, model organisms and ecosystem engineers.
+3. **Deepanjali Swain** - Microflora: diversity and functions in aquatic animals.
+4. **Esita mondal** - DNA metabarcoding in insects: principles, application and future perspectives.
+5. **Dibyajyoti samantaray** - Role of enzymes in aquatic insects.
+6. **Goldy kumari** - A review on contraception in India: current practices and emerging needs.
+7. **Swagatika Sahu** - Shift from classical education to application-based learning in zoology: a paradigm transformation in higher education under nep 2020.
+
+## Peer-Reviewed Publications
+- Kiran Choudaj, Chaitali Shaha and Varsha Wankhade (2024). Geospatial Analysis of Land Use Change and Grassland Degradation in Pune's Urban Hills. *Asian Journal of Conservation Biology*. 13. 208-214. 10.53562/ajcb.86114. ISSN: 2278-7666.
+- Mudasir Dar, Rongrong Xie, Luohui Jing, Xu Qing, Shehbaz Ali, Radhakrishna Pandit, Chaitali Shaha, Jianzhong Sun (2024). Elucidating the structure, and composition of bacterial symbionts in the gut regions of wood-feeding termite, Coptotermes formosanus and their functional profile towards lignocellulolytic systems. *Frontiers in Microbiology*. 15. 01-21. 10.3389/fmicb.2024.1395568. (Impact factor-4.5). Electronic ISSN:1664-302X
+- Kiran Choudaj, Chaitali Shaha (2023). Natural remnants are refuges for rare birds in an urban area: a study from Pune city, India. *Ornis Hungarica*. 31(1) 62-71. https://doi.org/10.2478/orhu-2023-0004 (Impact factor-0.6). ISSN: 12151610
+- Chaitali Shaha, Mudassir Dar and Radhakrishna Pandit (2022). Mining the diversity and functional profile of bacterial symbionts from the larvae of Chironomus circumdatus (bloodworms). *Folia Microbiologica*. 67(6):861-872. https://doi.org/10.1007/s12223-022-00984-3 (Impact factor-3.1). Electronic ISSN 1874-9356
+- Chaitali Shaha and Radhakrishna Pandit (2022). Bio-based versus synthetic: Comparative study of plasticizers mediated stress on Chironomus circumdatus (Diptera – Chironomidae). *Ecotoxicology*. 31(3):385-395. 10.1007/s10646-021-02516-0 (Impact factor- 2.7). Electronic ISSN 1573-3017
+- Chaitali Shaha and Radhakrishna Pandit (2021). Characterization of an Esterase Producing Bacterium from the Gut of Chironomus circumdatus (Bloodworms) and its Ability to Use Modified Phthalates. *Current Microbiology*. 78, 3165–3172. https://doi.org/10.1007/s00284-021-02574-x (Impact factor- 2.6). Electronic ISSN 1432-0991
+- Chaitali Shaha and Radhakrishna Pandit (2020). Biochemical and molecular changes mediated by plasticizer diethyl phthalate in Chironomus circumdatus (bloodworms). *Comparative Biochemistry and Physiology, Part C*, 228:18650. https://doi.org/10.1016/j.cbpc.2019.108650 (Impact factor- 4.3). Online ISSN: 1878-1659
+- Jyoti Chintalchere, Mudasir Dar, Chaitali Shaha, Radhakrishna Pandit (2020). Impact of essential oils on Musca domestica larvae: oxidative stress and antioxidant responses. *International Journal of Tropical Insect Science*, 41, 821-830. 10.1007/s42690-020-00272-y (Impact factor- 1.20). Electronic ISSN: 1742-7592
+
+## Manuscripts Under Review
+- Chaitali M. Shaha, Deepanjali Swain, Kiran B. Choudaj. Microflora in Aquatic Animals: Diversity, Functional Roles, Environmental Interactions, and Applications in Sustainable Aquaculture (In Review).
+- Chaitali M. Shaha, Praveen Kumar Dhankar, Kiran B. Choudaj, Akshaykumar Meshram, Radhakrishna S. Pandit. Enzymatic and molecular characterization of phthalate ester degradation by Enterobacter mori BI1245 from insect gut microbiota (In Review).
+- Chaitali M. Shaha, Praveen Kumar Dhankar, Kiran B. Choudaj, Akshaykumar Meshram, Radhakrishna S. Pandit. Metabarcoding and Functional Characterization of Gut Microbiota Reveals Phthalate-Degrading Potential in Chironomus circumdatus larvae (In Review).
+
+## Presentations and Invited Lectures
+
+### Contributory talk
+- Putative role of bacterial esterases in biodegradation of Phthalic acid esters, Symposium on Interdisciplinary Sciences, NISER, Bhubaneswar, 2025
+
+### Oral Presentation
+- Putative role of Carboxylesterases in Enterobacter mori BI1245 in the biodegradation of modified phthalates, 2nd International Conference on Pollution Control for Clean Environment (ICPCCE-2025), IIT-Bhubaneswar, 22nd-23rd December, 2025
+- Putative bacterial enzymes involved in xenobiotic biotransformation in Chironomus circumdatus, international conference on “Advances and Innovations in Biotechnology for Sustainable Development”, Department of Biotechnology, AKS University, Satna, Madhya Pradesh, 5-7 April, 2019
+
+### Poster presentation
+- Biochemical and physiological changes induced by diethyl phthalate in Chironomus circumdatus, All India Cell Biology Conference and 2nd International conference on Trends in Cell and Molecular Biology, 21st -23rd December, 2018
+- Purification, characterization and immobilization of alkaline phosphatase from Vigna unguiculata, Department of Chemistry, Savitribai Phule Pune University, 2013
+
+### Guest Lectures
+- Hormonal regulation of carbohydrates, proteins and lipid metabolism, osmoregulatory hormones, control of calcium and phosphate metabolism, Department of Zoology, Shri Shiv Chhatrapati College, Junnar, 2017
+- Cell cycle and its regulation, Department of Zoology, Shri Shiv Chhatrapati College, Junnar, 2016
+
+## Professional Development and Technical Training
+- Two-week online refresher course of “Challenges in Higher Education in India in 21st century”, Faculty Development Program-113, Guru Angad Dev Teaching Learning Centre, S.G.T.B. Khalsa College, University of Delhi, Ministry of Education, Govt. of India, Pandit Madan Mohan Malaviya National Mission on Teachers and Teaching (PMMMNMTT), 16th -28th January, 2023.
+- The Virtual Labs project development, IIT Bombay initiative by the Ministry of Education (MoE), Government of India, under the National Mission on Education through Information and Communication Technology (NMEICT), 4th – 12th November, 2022
+- Immunology and Vector Biology of Leishmaniasis, Department of Zoology, Savitribai Phule Pune University, Pune, 2019
+- The Art and Science of Publication Writing, Venture centre, Pune, 2018
+
+## Others
+- Internal Resource Person (IRP) for PAC 24.10 approved research programme entitled “Developing Environmental Education Activities at Regional Institute of Education for sensitizing Pre-service and In-service Teachers and School Children”.
+- December 2023- April 2025: Online platform- Vichar Education (YouTube channel and App). Recorded sessions for NEET Biology
