@@ -31,7 +31,6 @@ export function Navbar() {
         <Link href="#publications" className="hover:text-brand transition-colors">Publications</Link>
         <Link href="#conferences" className="hover:text-brand transition-colors">Conferences</Link>
         <Link href="#training" className="hover:text-brand transition-colors">Training</Link>
-        <Link href="#outreach" className="hover:text-brand transition-colors">Outreach</Link>
       </div>
 
       {/* Hamburger Icon - Mobile/Tablet */}
@@ -62,7 +61,6 @@ export function Navbar() {
           <Link href="#publications" onClick={() => setIsOpen(false)} className="hover:text-brand transition-colors w-full text-center py-2">Publications</Link>
           <Link href="#conferences" onClick={() => setIsOpen(false)} className="hover:text-brand transition-colors w-full text-center py-2">Conferences</Link>
           <Link href="#training" onClick={() => setIsOpen(false)} className="hover:text-brand transition-colors w-full text-center py-2">Training</Link>
-          <Link href="#outreach" onClick={() => setIsOpen(false)} className="hover:text-brand transition-colors w-full text-center py-2">Outreach</Link>
         </div>
       )}
     </nav>

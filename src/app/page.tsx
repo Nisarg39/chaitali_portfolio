@@ -7,7 +7,6 @@ import { Mentorship } from "@/components/Mentorship";
 import { Publications } from "@/components/Publications";
 import { Conferences } from "@/components/Conferences";
 import { Training } from "@/components/Training";
-import { Outreach } from "@/components/Outreach";
 
 export default function Home() {
   return (
@@ -50,7 +49,6 @@ export default function Home() {
         <Publications />
         <Conferences />
         <Training />
-        <Outreach />
 
       </main>
     </div>

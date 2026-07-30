@@ -41,9 +41,9 @@ const skills = [
 export function About() {
   return (
     <section id="about" className="pt-20 pb-10 border-t border-dark/10 mt-10">
-      <div className="flex flex-col md:flex-row items-center gap-6 mb-16">
-        <h2 className="text-4xl md:text-5xl font-bold bg-brand px-2 py-1 inline-block rounded-md border-2 border-dark shadow-[2px_2px_0px_0px_rgba(25,26,35,1)]">About Me</h2>
-        <p className="text-lg md:text-xl text-dark whitespace-nowrap overflow-hidden text-ellipsis">
+      <div className="flex flex-col md:flex-row items-center md:items-start gap-6 mb-16 text-center md:text-left">
+        <h2 className="text-4xl md:text-5xl font-bold bg-brand px-2 py-1 inline-block rounded-md border-2 border-dark shadow-[2px_2px_0px_0px_rgba(25,26,35,1)] shrink-0">About Me</h2>
+        <p className="text-lg md:text-xl text-dark">
           A brief overview of my professional objective, core qualifications, and key skills.
         </p>
       </div>
