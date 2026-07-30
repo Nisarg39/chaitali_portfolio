@@ -57,27 +57,6 @@ const publications = [
     journal: "International Journal of Tropical Insect Science",
     authors: "Jyoti Chintalchere, Mudasir Dar, Chaitali Shaha, Radhakrishna Pandit",
     doi: "https://doi.org/10.1007/s42690-020-00272-y"
-  },
-  {
-    year: "In Review",
-    title: "Microflora in Aquatic Animals: Diversity, Functional Roles, Environmental Interactions, and Applications in Sustainable Aquaculture",
-    journal: "Manuscript Under Review",
-    authors: "Chaitali M. Shaha, Deepanjali Swain, Kiran B. Choudaj",
-    doi: "#"
-  },
-  {
-    year: "In Review",
-    title: "Enzymatic and molecular characterization of phthalate ester degradation by Enterobacter mori BI1245 from insect gut microbiota",
-    journal: "Manuscript Under Review",
-    authors: "Chaitali M. Shaha, Praveen Kumar Dhankar, Kiran B. Choudaj, Akshaykumar Meshram, Radhakrishna S. Pandit",
-    doi: "#"
-  },
-  {
-    year: "In Review",
-    title: "Metabarcoding and Functional Characterization of Gut Microbiota Reveals Phthalate-Degrading Potential in Chironomus circumdatus larvae",
-    journal: "Manuscript Under Review",
-    authors: "Chaitali M. Shaha, Praveen Kumar Dhankar, Kiran B. Choudaj, Akshaykumar Meshram, Radhakrishna S. Pandit",
-    doi: "#"
   }
 ];
 
