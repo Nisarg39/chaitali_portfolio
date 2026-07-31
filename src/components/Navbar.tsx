@@ -8,7 +8,7 @@ export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="relative flex items-center justify-between py-8 max-w-7xl mx-auto px-4 md:px-8">
+    <nav className="relative flex items-center justify-between py-8 w-full max-w-7xl mx-auto px-4 md:px-8">
       {/* Logo Area */}
       <div className="flex items-center gap-3 shrink-0">
         <div className="relative w-10 h-10">
